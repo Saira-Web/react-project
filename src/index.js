@@ -7,7 +7,6 @@ import test from 'img/test.jpeg';
 const App = () => {
 	return (
    <Greeting name="World"/>
-
    )
 }
 ReactDOM.render(<App />, document.getElementById('root'));
