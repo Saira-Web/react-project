@@ -1,7 +1,6 @@
 {
   "name": "react-project",
   "version": "1.0.0",
-  "description": "",
   "main": "webpack.config.js",
   "scripts": {
     "start": "webpack-dev-server --open --mode development",
@@ -27,5 +26,15 @@
     "express": "^4.17.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saira-Web/react-project.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Saira-Web/react-project/issues"
+  },
+  "homepage": "https://github.com/Saira-Web/react-project#readme",
+  "description": ""
 }
