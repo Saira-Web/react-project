@@ -1,6 +1,6 @@
 
 import React from "react"
-const product = [{Name: "laptop", Price:"799"}, {Name: "iPhone", Price:"999"}];
+const product = [{Name: "laptop", Price:"$799"}, {Name: "iPhone", Price:"$999"}];
 
 const ProductList = () => {
     return (
